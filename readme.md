@@ -5,4 +5,4 @@ To run the project, please use
 python -m venv .venv
 source .venv/bin/activate
 pip install -r dependence.txt
-python3.13 rag_data_assistant.py
+python3.13 main.py
